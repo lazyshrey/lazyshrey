@@ -10,7 +10,7 @@
 
 Building high-performance cross-platform applications, custom audio engines, and localized AI systems.
 
-<a href="https://www.lazyshrey.in"><img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="14" height="14" alt="Website" /> lazyshrey.in</a> · <a href="https://www.linkedin.com/in/shreyjaiswal1/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="14" height="14" alt="LinkedIn" /> LinkedIn</a> · <a href="https://x.com/lazy_shrey"><img src="https://cdn.simpleicons.org/x/ffffff" width="14" height="14" alt="Twitter" /> @lazy_shrey</a>
+<a href="https://www.lazyshrey.in"><img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="14" height="14" alt="Website" /> lazyshrey.in</a> · <a href="https://x.com/lazy_shrey"><img src="https://cdn.simpleicons.org/x/ffffff" width="14" height="14" alt="Twitter" /> @lazy_shrey</a>
 </div>
 
 ---
